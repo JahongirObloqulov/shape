@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #403553;
+}
+
+.container {
+    height: 340px;
+    width: 340px;
+    background-color: #fff;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.head {
+    background-image: linear-gradient(to bottom, #C91F77, #EB6C1B);
+    height: 260px;
+    width: 130px;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    border-radius: 0 130px 130px 0;
+}
+
+.head::after {
+    position: absolute;
+    content: "";
+    height: 180px;
+    width: 90px;
+    background-image: linear-gradient(to bottom, #ffffff 50%, #EBE7E6 50%);
+    top: 40px;
+    right: 40px;
+    border-radius: 0 90px 90px 0;
+}
+
+.eye {
+    height: 45px;
+    width: 45px;
+    background-color: #202B3F;
+    border-radius: 50%;
+
+}
