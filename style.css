@@ -43,5 +43,8 @@ body {
     width: 45px;
     background-color: #202B3F;
     border-radius: 50%;
+    position: absolute;
+    top: 123px;
+    right: 123px;
 
 }
