@@ -31,7 +31,7 @@ body {
     content: "";
     height: 180px;
     width: 90px;
-    background-image: linear-gradient(to bottom, #ffffff 50%, #EBE7E6 50%);
+    background-image: linear-gradient(to bottom, #ffffff 50%, #E9E9E9 50%);
     top: 40px;
     right: 40px;
     border-radius: 0 90px 90px 0;
